@@ -1,0 +1,49 @@
+
+div{
+    background-color:rgb(177, 187, 185) ;
+    opacity: 0.7;
+    border-radius: 22px;
+}
+body{
+    background-image: url("toro.jpg");
+    background-size: cover;
+}
+form{
+    color:rgb(207, 207, 207);
+    width: 280px;
+    margin: 0 auto;
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+}
+table{
+    color:rgb(153, 153, 153);
+}
+th{
+    background-color:gray;
+    color: black;
+}
+td{
+    background-color:gainsboro ;
+    color: black;
+}
+h3{
+    background-color:rgb(153, 153, 153) ;
+    opacity: 0,7;
+    width: 700px;
+    border-radius: 20px;
+    color: black;
+}
+#tabla1{
+    color:rgb(207, 207, 207);
+    width: 310px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    border-radius: 20px;
+}
+h2{
+    color: rgb(190, 190, 190);
+}
+h4{
+    color: rgb(190, 190, 190);
+}

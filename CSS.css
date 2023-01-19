@@ -1,0 +1,45 @@
+div{
+    background-color:rgb(255, 255, 255) ;
+    opacity: 0.7;
+    border-radius: 20px;
+}
+body{
+    background-image: url("fondo.jpg");
+}
+h2{
+    color:white;
+}
+h4{
+    color:white;
+}
+h5{
+    color:white;
+}
+#indice1{
+    background-color:rgb(177, 187, 185) ;
+    border-radius: 22px;
+    width: 120px;
+    padding: 1px;
+    border: 2px solid
+}
+#indice2{
+    background-color:rgb(177, 187, 185) ;
+    border-radius: 22px;
+    width: 125px;
+    padding: 1px;
+    border: 2px solid
+}
+#indice3{
+    background-color:rgb(177, 187, 185) ;
+    border-radius: 22px;
+    width: 80px;
+    padding: 1px;
+    border: 2px solid
+}
+#indice4{
+    background-color:rgb(177, 187, 185) ;
+    border-radius: 22px;
+    width: 167px;
+    padding: 1px;
+    border: 2px solid
+}
